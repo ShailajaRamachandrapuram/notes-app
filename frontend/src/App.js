@@ -43,7 +43,7 @@ function App() {
   return (
     !isAuthenticating && (
       <div className="App container py-3" style={{backgroundColor: 'blue' }}>
-        <Navbar collapseOnSelect bg="light" expand="md" className="mb-3 px-3">
+        <Navbar collapseOnSelect bg="dark" variant="dark" expand="md" className="mb-3 px-3">
           <LinkContainer to="/">
             <Navbar.Brand className="fw-bold text-muted">
               A Simple Notes
