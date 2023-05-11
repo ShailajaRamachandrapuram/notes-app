@@ -1,8 +1,7 @@
-# SST Demo Notes App [![Seed Status](https://api.seed.run/serverless-stack/demo-notes-app/stages/prod/build_badge)](https://console.seed.run/serverless-stack/demo-notes-app)
+Simple Notes App [![Seed Status](https://api.seed.run/serverless-stack/demo-notes-app/stages/prod/build_badge)](https://console.seed.run/serverless-stack/demo-notes-app)
 
-The [Serverless Stack Guide](https://sst.dev/guide) is a comprehensive open source tutorial for building and deploying full-stack apps using serverless and React on AWS.
 
-We create a [note taking app](https://demo.sst.dev) from scratch. Using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.
+We created a Note Making App called Simple Notes (https://demo.sst.dev) from scratch. Using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.
 
 ![Demo App](screenshot.png)
 
