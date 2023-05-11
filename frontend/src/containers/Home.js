@@ -65,7 +65,7 @@ export default function Home() {
     return (
       <div className="lander">
         <h1>A Simple Notes</h1>
-        <p className="text-muted">Welcome to A simple Notes</p>
+        <p className="text-muted">Welcome to A simple Notes App</p>
       </div>
     );
   }
