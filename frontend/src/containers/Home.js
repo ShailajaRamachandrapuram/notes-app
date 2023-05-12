@@ -6,6 +6,7 @@ import { useAppContext } from "../lib/contextLib";
 import { onError } from "../lib/errorLib";
 import { API } from "aws-amplify";
 import "./Home.css";
+import logo from "../images/notes.png";
 
 export default function Home() {
   const [notes, setNotes] = useState([]);
@@ -65,6 +66,7 @@ export default function Home() {
     return (
       <div className="lander">
         <h1>A Simple Notes App</h1>
+        <img src={logo} alt="image" />
         <p className="text-muted">Welcome to A simple Notes</p>
       </div>
     );
