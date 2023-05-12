@@ -66,7 +66,7 @@ export default function Home() {
     return (
       <div className="lander">
         <h1>A Simple Notes App</h1>
-        <img src={logo} alt="image" />
+        <img src={logo} alt="#notes app" />
         <p className="text-muted">Welcome to A simple Notes</p>
       </div>
     );
